@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MornHouse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_history">History:</string>
+    <string name="fragment_search">Search</string>
+    <string name="number">42</string>
+    <string name="some_text">is a number for which we\'re missing a fact (submit one to numbersapi at google mail!).</string>
+    <string name="hint_for_search">Enter here some number to search...</string>
+    <string name="search_number">Search number</string>
+    <string name="search_random_number">Search Random Number</string>
+</resources>
